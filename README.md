@@ -138,7 +138,6 @@ install.packages(c("readxl","ggplot2","plotrix","dplyr"))
 5. Otwórz plik demographic-analysis.R
 6. Zainstaluj wymagane biblioteki
 7. Wybierz ścieżkę danych (linijki od 3 do 13 w kodzie src/demographic-analysis.R
-8. Uruchom:
-source("demographic-analysis.R")
+8. Skompiluj kod
 9. Wyniki oraz wykresy zostaną wyświetlone w interfejsie R.
 
