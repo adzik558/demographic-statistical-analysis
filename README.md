@@ -3,6 +3,8 @@
 Analiza statystyczna liczby zgonów kobiet i mężczyzn w Polsce w latach 2010–2020 na podstawie danych GUS.  
 Projekt wykonany w języku **R** w ramach przedmiotu *Statystyczna analiza danych*.
 
+W folderze docs/dokumentacja - demografia.pdf znajduje się pełna dokumentacja projektu wraz z zrzutami ekranu.
+
 ---
 
 ## Struktura repozytorium
