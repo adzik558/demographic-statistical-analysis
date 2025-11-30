@@ -5,6 +5,20 @@ Projekt wykonany w języku **R** w ramach przedmiotu *Statystyczna analiza danyc
 
 ---
 
+## Struktura repozytorium
+
+demographic-statistical-analysis/
+├── README.md
+├── LICENSE
+├── docs/
+│   └── dokuemntacja - demografia.pdf
+├── src/
+│   └── analysis.R
+└── data/
+    └── sample_demography.csv
+
+---
+
 ## Cel projektu
 
 Celem analizy było:
@@ -111,3 +125,12 @@ Przeprowadzono dwa testy:
 ➡ Wynik: odrzucenie hipotezy zerowej (średnia > 1000).
 
 ---
+
+## Jak uruchomić
+1. Zainstaluj R i RStudio.
+2. Zainstaluj pakiety:
+install.packages(c("readxl","ggplot2","plotrix","dplyr"))
+3. Wybierz ścieżkę danych.
+4. Uruchom:
+source("demographic-analysis.R")
+
