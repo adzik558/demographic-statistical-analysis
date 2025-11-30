@@ -100,9 +100,13 @@ W projekcie wykonano m.in.:
 
 ### Histogramy
 - rozkład średniej liczby zgonów dla kobiet,
-<img width="464" height="327" alt="image" src="https://github.com/user-attachments/assets/4d664933-b6bb-48af-974e-35316d54b44a" />
 - rozkład średniej liczby zgonów dla mężczyzn.
-<img width="452" height="320" alt="image" src="https://github.com/user-attachments/assets/f84f7f87-66c6-4570-aeb8-f7dee1b8be12" />
+
+<img width="691" height="484" alt="image" src="https://github.com/user-attachments/assets/3096f2df-8d1d-4dfc-92f4-0a695b3559da" />  
+
+<img width="650" height="473" alt="image" src="https://github.com/user-attachments/assets/71c35ea5-db10-42d2-be9e-5cc3cac025b7" />  
+
+
 
 
 
