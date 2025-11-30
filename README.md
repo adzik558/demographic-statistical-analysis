@@ -130,10 +130,15 @@ Przeprowadzono dwa testy:
 ---
 
 ## Jak uruchomić
-1. Zainstaluj R i RStudio.
+1. Zainstaluj R i RStudio
 2. Zainstaluj pakiety:
 install.packages(c("readxl","ggplot2","plotrix","dplyr"))
-3. Wybierz ścieżkę danych.
-4. Uruchom:
+3. Pobierz data/tablice_trwania_zycia.csv
+4. Pobierz src/demographic-analysis.R
+5. Otwórz plik demographic-analysis.R
+6. Zainstaluj wymagane biblioteki
+7. Wybierz ścieżkę danych (linijki od 3 do 13 w kodzie src/demographic-analysis.R
+8. Uruchom:
 source("demographic-analysis.R")
+9. Wyniki oraz wykresy zostaną wyświetlone w interfejsie R.
 
