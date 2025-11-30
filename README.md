@@ -7,11 +7,12 @@ Projekt wykonany w języku **R** w ramach przedmiotu *Statystyczna analiza danyc
 
 ## Struktura repozytorium
 
+```plaintext
 demographic-statistical-analysis/
 ├── README.md
 ├── LICENSE
 ├── docs/
-│   └── dokuemntacja - demografia.pdf
+│   └── dokumentacja - demografia.pdf
 ├── src/
 │   └── analysis.R
 └── data/
