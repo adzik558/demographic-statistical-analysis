@@ -17,7 +17,7 @@ demographic-statistical-analysis/
 │   └── analysis.R
 └── data/
     └── sample_demography.csv
-
+```
 ---
 
 ## Cel projektu
