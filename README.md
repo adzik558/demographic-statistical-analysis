@@ -102,12 +102,27 @@ W projekcie wykonano m.in.:
 - rozkład średniej liczby zgonów dla kobiet,
 - rozkład średniej liczby zgonów dla mężczyzn.
 
+<img width="464" height="327" alt="image" src="https://github.com/user-attachments/assets/4d664933-b6bb-48af-974e-35316d54b44a" />
+
+<img width="452" height="320" alt="image" src="https://github.com/user-attachments/assets/f84f7f87-66c6-4570-aeb8-f7dee1b8be12" />
+
+
 ### Wykresy słupkowe (ggplot2)
 - średnia liczba zgonów według wieku,
 - słupki z linią trendu / średniej.
 
+<img width="1233" height="637" alt="image" src="https://github.com/user-attachments/assets/0df966e5-a0eb-4f20-999f-4eca02c98dd9" />
+
+<img width="1250" height="643" alt="image" src="https://github.com/user-attachments/assets/f6c63603-905f-4a04-91b4-3558a40bc442" />
+
+
 ### Wykresy kołowe (plotrix)
 - udział procentowy liczby zgonów w latach 2010–2020.
+
+<img width="792" height="506" alt="image" src="https://github.com/user-attachments/assets/169461df-8c90-4751-8991-6cad9d850bed" />
+
+<img width="776" height="516" alt="image" src="https://github.com/user-attachments/assets/24d27c4b-a76c-43ee-9c62-445c96fe9fb0" />
+
 
 ### Dystrybuanta empiryczna i gęstość
 - wykresy gęstości (density),
