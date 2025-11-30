@@ -18,7 +18,7 @@ demographic-statistical-analysis/
 ├── src/
 │   └── analysis.R
 └── data/
-    └── stablice_trwania_zycia_w_latach_1990-2022.xlsx
+    └── tablice_trwania_zycia_w_latach_1990-2022.xlsx
 ```
 ---
 
